@@ -30,7 +30,7 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
-        // TODO: Create a new SoundPool
+       
 
 
         // TODO: Load and get the IDs to identify the sounds
